@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+ <project default="compile java">
+    <target name="hello">
+    <echo message="Hello, World"/>
+  </target>
+</project>
